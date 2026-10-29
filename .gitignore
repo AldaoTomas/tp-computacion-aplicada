@@ -1,0 +1,7 @@
+.local/
+*.pem
+*.key
+clave_privada*
+*.ova
+*.vdi
+*.vmdk

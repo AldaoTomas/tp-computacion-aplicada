@@ -1,0 +1,2 @@
+Hashes correctos. Archivos tar legibles. Entradas revisadas: 5627
+Sin marcadores de claves privadas ni nombres sensibles de la lista revisada.

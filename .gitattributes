@@ -1,0 +1,6 @@
+*.sh text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.tar.gz binary
+*.part-* binary
+*.jpg binary

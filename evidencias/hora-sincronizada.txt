@@ -1,0 +1,11 @@
+               Local time: jue 2026-10-29 14:09:00 -03
+           Universal time: jue 2026-10-29 17:09:00 UTC
+                 RTC time: jue 2026-10-29 17:03:12
+                Time zone: America/Argentina/Buenos_Aires (-03, -0300)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+active
+active
+active
+active
